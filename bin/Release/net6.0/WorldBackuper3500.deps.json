@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WorldBackuper3500/1.0.2": {
+        "runtime": {
+          "WorldBackuper3500.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WorldBackuper3500/1.0.2": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

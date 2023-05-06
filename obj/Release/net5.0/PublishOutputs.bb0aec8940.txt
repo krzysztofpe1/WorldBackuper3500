@@ -1,0 +1,5 @@
+C:\Users\krzys\source\repos\WorldBackuper3500\bin\Release\net5.0\publish\WorldBackuper3500.exe
+C:\Users\krzys\source\repos\WorldBackuper3500\bin\Release\net5.0\publish\WorldBackuper3500.dll
+C:\Users\krzys\source\repos\WorldBackuper3500\bin\Release\net5.0\publish\WorldBackuper3500.deps.json
+C:\Users\krzys\source\repos\WorldBackuper3500\bin\Release\net5.0\publish\WorldBackuper3500.runtimeconfig.json
+C:\Users\krzys\source\repos\WorldBackuper3500\bin\Release\net5.0\publish\WorldBackuper3500.pdb

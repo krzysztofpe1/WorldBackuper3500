@@ -1,0 +1,5 @@
+Z:\C#\WorldBackuper3500\bin\Release\net5.0\publish\WorldBackuper3500
+Z:\C#\WorldBackuper3500\bin\Release\net5.0\publish\WorldBackuper3500.dll
+Z:\C#\WorldBackuper3500\bin\Release\net5.0\publish\WorldBackuper3500.deps.json
+Z:\C#\WorldBackuper3500\bin\Release\net5.0\publish\WorldBackuper3500.runtimeconfig.json
+Z:\C#\WorldBackuper3500\bin\Release\net5.0\publish\WorldBackuper3500.pdb
